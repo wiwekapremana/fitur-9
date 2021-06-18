@@ -1,0 +1,4 @@
+#Fri Jun 18 08:11:59 SGT 2021
+base.0=C\:\\Users\\wiwek\\Downloads\\Compressed\\fixxxx\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+path.0=classes.dex
